@@ -9,5 +9,9 @@ public class SimpleMath {
 		double Result= numerator/denominator;
 		return Result;
 	}
+	public Double multiply(double number1, double number2) {
+		Double Result= number1 * number2;
+		return Result;
+	}
 	
 }
